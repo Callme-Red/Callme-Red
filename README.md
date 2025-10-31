@@ -1,11 +1,11 @@
 <!-- Banner principal -->
-<h1 align="center">¡Hola 👋, soy callmeRobert!</h1>
+<h1 align="center">¡Hola 👋, soy Roberto Díaz!</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2I4YzdiMWQ1M2MwYmQ3NzA2NzE4ZDI5ZDViM2UwN2QwODdkNDEzMyZjdD1n/dzaUX7CAG0Ihi/giphy.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/Callme-Red/Callme-Red/main/coding-guy.gif" width="250"/>
 </p>
 
 <p align="center">
-  <b>Desarrollador Full Stack | Apasionado por la tecnología y la innovación</b><br>
+  <b>Desarrollador de Software | Apasionado por la tecnología y la innovación</b><br>
   Managua, Nicaragua 🇳🇮
 </p>
 
