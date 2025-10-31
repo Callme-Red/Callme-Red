@@ -37,7 +37,7 @@ Soy un desarrollador con experiencia en sistemas, web y APIs. Me apasiona aprend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs,supabase,strapi" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
   <img src="https://skillicons.dev/icons?i=supabase" width="40"/>
   <img src="https://skillicons.dev/icons?i=strapi" width="40"/>
   <!-- Puedes agregar más -->
@@ -76,8 +76,6 @@ Soy un desarrollador con experiencia en sistemas, web y APIs. Me apasiona aprend
 ---
 
 <!-- Puedes agregar esta sección al README donde quieras -->
-
----
 
 ## 🚩 Proyectos Destacados
 
