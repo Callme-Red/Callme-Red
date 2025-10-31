@@ -42,13 +42,37 @@ Soy un desarrollador con experiencia en sistemas, web y APIs. Me apasiona aprend
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas & Trofeos
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Callme-Red&show_icons=true&theme=radical" alt="Estadísticas de GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Callme-Red&theme=radical" alt="Racha de contribuciones"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Callme-Red&layout=compact&theme=radical" alt="Principales lenguajes"/>
+  <!-- Trofeos de perfil: https://github.com/ryo-ma/github-profile-trophy -->
+  <a href="https://github.com/Callme-Red">
+    <img src="https://github-profile-trophy.vercel.app/?username=Callme-Red&theme=onedark&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Profile Trophy"/>
+  </a>
 </p>
+
+<p align="center">
+  <!-- Estadísticas generales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Callme-Red&show_icons=true&count_private=true&theme=radical&rank_icon=github" alt="Callme-Red GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Callme-Red&theme=radical" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Callme-Red&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Callme-Red&theme=radical" alt="Activity Graph"/>
+</p>
+
+---
+
+## 🏅 Resumen Visual de Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,html,css,bootstrap,python,django,git,typescript,c,cpp,cs,nextjs,supabase,strapi" />
+</p>
+
+---
+
+<!-- Puedes agregar esta sección al README donde quieras -->
 
 ---
 
