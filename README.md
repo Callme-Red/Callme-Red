@@ -1,33 +1,43 @@
-<!-- Encabezado con título y banner -->
-<h1 align="center">¡Hola, soy callmeRobert 👋!</h1>
+<!-- Banner principal -->
+<h1 align="center">¡Hola 👋, soy callmeRobert!</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2I4YzdiMWQ1M2MwYmQ3NzA2NzE4ZDI5ZDViM2UwN2QwODdkNDEzMyZjdD1n/dzaUX7CAG0Ihi/giphy.gif" alt="Coding" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2I4YzdiMWQ1M2MwYmQ3NzA2NzE4ZDI5ZDViM2UwN2QwODdkNDEzMyZjdD1n/dzaUX7CAG0Ihi/giphy.gif" width="200"/>
 </p>
 
 <p align="center">
-  <b>Desarrollador de software | Apasionado por la tecnología | Managua, Nicaragua 🇳🇮</b>
+  <b>Desarrollador Full Stack | Apasionado por la tecnología y la innovación</b><br>
+  Managua, Nicaragua 🇳🇮
 </p>
 
 ---
 
 ## 🚀 Sobre mí
-- 👨‍💻 Actualmente trabajando en proyectos personales y colaborativos.
-- 🌱 Aprendiendo nuevas tecnologías constantemente.
-- 💬 Pregúntame sobre desarrollo web, Python, JavaScript y más.
-- 📫 Puedes contactarme en mi [perfil de GitHub](https://github.com/Callme-Red)
+
+Soy un desarrollador con experiencia en sistemas, web y APIs. Me apasiona aprender nuevas tecnologías y contribuir en proyectos innovadores.
+- 💻 Trabajo con Java, JavaScript, React, HTML5, CSS, Bootstrap, Django, Django Rest API, Git, Python, Supabase, Strapi, Next.js, C, C++, C#, y más.
+- 📚 Siempre aprendiendo y explorando nuevas herramientas para crear soluciones eficientes.
+- 🤝 Me encanta colaborar y compartir conocimiento con la comunidad.
 
 ---
 
-## 🛠️ Tecnologías y lenguajes
+## 🛠️ Tecnologías y Lenguajes
 
-<p align="left">
-  <!-- Ejemplo de iconos, puedes agregar/quitar según tus repositorios -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <!-- Agrega más iconos según tus skills -->
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <!-- Puedes agregar más -->
 </p>
 
 ---
@@ -42,19 +52,41 @@
 
 ---
 
-## 📂 Repositorios Destacados
+## 🚩 Proyectos Destacados
 
-<!-- Ejemplo, reemplaza con tus repositorios destacados -->
-- [Repositorio 1](https://github.com/Callme-Red/Repo1): Breve descripción del proyecto.
-- [Repositorio 2](https://github.com/Callme-Red/Repo2): Breve descripción del proyecto.
+- <b>[my_proyect_redr](https://github.com/Callme-Red/my_proyect_redr)</b>: Primer proyecto de la clase de sistemas de internet. <br>
+  <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript"> <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript">
+
+- <b>[CursoJavaScriptUniversidad](https://github.com/Callme-Red/CursoJavaScriptUniversidad)</b>: Curso y ejercicios de JavaScript y HTML. <br>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript"> <img src="https://img.shields.io/badge/HTML5-orange?logo=html5">
+
+- <b>[stocky](https://github.com/Callme-Red/stocky)</b>: Proyecto con Python, TypeScript y JavaScript para gestión de inventario. <br>
+  <img src="https://img.shields.io/badge/Python-blue?logo=python"> <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript">
+
+- <b>[punto_de_venta_cs50](https://github.com/Callme-Red/punto_de_venta_cs50)</b>: Punto de venta y facturación con Django. <br>
+  <img src="https://img.shields.io/badge/Python-blue?logo=python"> <img src="https://img.shields.io/badge/Django-green?logo=django">
+
+- <b>[ElectroTech](https://github.com/Callme-Red/ElectroTech)</b>: Sistema de gestión de compra y venta. <br>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?logo=javascript"> <img src="https://img.shields.io/badge/Python-blue?logo=python">
+
+- <b>[FerreteriaPuntoDeVenta](https://github.com/Callme-Red/FerreteriaPuntoDeVenta)</b>: Punto de venta para ferretería en C#. <br>
+  <img src="https://img.shields.io/badge/CSharp-purple?logo=csharp">
+
+- <b>[Bb_Keilro](https://github.com/Callme-Red/Bb_Keilro)</b>: Base de datos del proyecto de venta de productos electrónicos. <br>
+  <img src="https://img.shields.io/badge/TSQL-blue?logo=microsoftsqlserver">
+
+- <b>[documentation](https://github.com/Callme-Red/documentation)</b>: Documentación Odoo. <br>
+  <img src="https://img.shields.io/badge/Python-blue?logo=python"> <img src="https://img.shields.io/badge/HTML5-orange?logo=html5">
 
 ---
 
-## 🌐 Redes y contacto
+## 🌐 Redes y Contacto
 
-- 💼 [LinkedIn](#) <!-- Pon tu LinkedIn si tienes -->
-- 🐦 [Twitter/X](#) <!-- Pon tu Twitter si tienes -->
-- 📧 Email: <b>TuEmail@ejemplo.com</b>
+<p>
+  <a href="https://github.com/Callme-Red"><img src="https://img.shields.io/badge/GitHub-Callme--Red-black?logo=github"></a>
+  <a href="https://www.linkedin.com/in/roberto-el%C3%ADas-d%C3%ADaz-r-09b795192/"><img src="https://img.shields.io/badge/LinkedIn-Roberto%20El%C3%ADas%20D%C3%ADaz%20R-blue?logo=linkedin"></a>
+  <a href="mailto:robertdiruz05@gmail.com"><img src="https://img.shields.io/badge/Email-robertdiruz05@gmail.com-red?logo=gmail"></a>
+</p>
 
 ---
 
@@ -62,5 +94,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Callme-Red" alt="Visitas"/>
 </p>
 
-<!-- Mensaje final -->
 <p align="center"><b>¡Gracias por visitar mi perfil! 🚀</b></p>
