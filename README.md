@@ -37,6 +37,9 @@ Soy un desarrollador con experiencia en sistemas, web y APIs. Me apasiona aprend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,supabase,strapi" width="40"/>
+  <img src="https://skillicons.dev/icons?i=supabase" width="40"/>
+  <img src="https://skillicons.dev/icons?i=strapi" width="40"/>
   <!-- Puedes agregar más -->
 </p>
 
@@ -58,9 +61,9 @@ Soy un desarrollador con experiencia en sistemas, web y APIs. Me apasiona aprend
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Callme-Red&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="170"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Callme-Red&theme=radical" alt="Activity Graph"/>
-</p>
+</p> -->
 
 ---
 
