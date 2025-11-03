@@ -39,9 +39,8 @@ Soy un desarrollador con experiencia en sistemas, web y APIs. Me apasiona aprend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" width="40"/>
   <img src="https://skillicons.dev/icons?i=supabase" width="40"/>
-  <img src="https://skillicons.dev/icons?i=strapi" width="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
-  <img src="https://skillicons.dev/icons?i=postgresql" width="40"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,bootstrap,debian,flask,github,gitlab,linux,nestjs,nodejs,npm,vite,vscode" width="40"/>
   <!-- Puedes agregar más -->
 </p>
 
