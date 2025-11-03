@@ -28,7 +28,6 @@ Soy un desarrollador con experiencia en sistemas, web y APIs. Me apasiona aprend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
@@ -41,6 +40,7 @@ Soy un desarrollador con experiencia en sistemas, web y APIs. Me apasiona aprend
   <img src="https://skillicons.dev/icons?i=supabase" width="40"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
   <img src="https://skillicons.dev/icons?i=postgresql,bootstrap,debian,flask,github,gitlab,linux,nestjs,nodejs,npm,vite,vscode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40"/>
   <!-- Puedes agregar más -->
 </p>
 
